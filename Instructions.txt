@@ -1,0 +1,7 @@
+HOW TO USE:
+
+run TiktokBot.bat
+When ran, insert link to either your page, video or stream.
+When ready, click 'Run' and wait around 3 minutes for the process to finish
+Check your stats on your selected link, it should be boosted expenentially in views
+well done you use plants botter.
