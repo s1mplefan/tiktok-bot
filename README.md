@@ -1,4 +1,4 @@
-# plants-tiktok-bot
+# plants-tiktok-bot - WAS plantshater
 
 # The best free botter on the market as of recent.
 
